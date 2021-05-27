@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX iPhone" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2018-06-12T17:40:49Z</time>
+ </metadata>
+ <trk>
+  <name>Evening Ride</name>
+  <type>1</type>
+  <trkseg>
+   <trkpt lat="51.4969400" lon="-0.1018530">
+    <ele>5.5</ele>
+    <time>2018-06-12T17:40:49Z</time>
+   </trkpt>
+   <trkpt lat="51.4970230" lon="-0.1025820">
+    <ele>5.4</ele>
+    <time>2018-06-12T17:40:54Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
